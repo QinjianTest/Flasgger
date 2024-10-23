@@ -32,7 +32,7 @@ swagger_template = {
         "version": "1.0.0",  # 修改这里的版本
         "termsOfService": "https://www.example.com/boss/", # 这里设置 Terms of Service 的 URL
         "contact": {
-            "email": "jans.qin@yuanqu-tech.com",
+            "email": "xxx@xxx.com",
         },
     }
 }
