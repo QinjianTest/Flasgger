@@ -22,7 +22,7 @@ def login():
         examples:
           application/json:
               用户信息:
-                    GUID: "test12C"
+                    用户ID: "test12C"
                     交易组别: "USD_XXX_XXXX"
                     国家: "XX"
                     牌照: "XXXX"
