@@ -18,7 +18,7 @@ def login():
         description: 点击Try it out，输入要查询的email
     responses:
       200:
-        description: 调用Boss接口，查询用户信息
+        description: 调用接口，查询用户信息
         examples:
           application/json:
               用户信息:
