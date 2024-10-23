@@ -1,14 +1,13 @@
 # 项目名称
 
-简要描述项目的功能和目的。
+用于测试快速查询以及构建数据的平台
+使用的是Flasgger框架
 
 ## 安装
 
-提供安装步骤和依赖项说明。
-
 ```bash
-# 示例安装命令
+# 安装命令
 pip install -r requirements.txt
 
-# 示例运行命令
+# 运行命令
 python app.py
