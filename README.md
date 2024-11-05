@@ -14,8 +14,7 @@
 ### 克隆存储库：
 
 ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/QinjianTest/Flasgger.git
 ```
 ### 创建并激活虚拟环境
 ```bash
